@@ -28,7 +28,7 @@
 
 ## Ｍｙ ｓｔａｔｓ　（殴ィ恩）
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Fkmraxx)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fkmrax&theme=tokyonight-duo&hide_border=)](https://git.io/streak-stats)
 
 Badges by https://github.com/Ileriayo/markdown-badges
 
