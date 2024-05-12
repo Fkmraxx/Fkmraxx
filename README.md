@@ -27,6 +27,7 @@
 
 
 ## Ｍｙ ｓｔａｔｓ　（殴ィ恩）
+<p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Fkmraxx)](https://git.io/streak-stats)
-
 Badges by https://github.com/Ileriayo/markdown-badges
+</p>
