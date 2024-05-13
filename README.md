@@ -30,9 +30,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fkmraxx&theme=tokyonight-duo&hide_border=)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fkmraxx&show_icons=true&theme=midnight-purple)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fkmraxx&theme=midnight-purple" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fkmraxx&theme=gotham" />
 
 
 Badges by https://github.com/Ileriayo/markdown-badges
