@@ -1,4 +1,4 @@
-#  𝓦𝓮𝓵𝓬𝓸𝓶𝓮! - (＾∇＾) 
+#  𝓦𝓮𝓵𝓬𝓸𝓶𝓮! 
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=Fkmraxx&color=lightgrey&style=for-the-badge" />
